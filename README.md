@@ -10,9 +10,9 @@ Contenido del repositorio:
      - Gentrification.html: Exportación en HTML del resultado de ejecutar el fichero de jupyter notebook
      - Graficos.zip: Fichero comprimido con los graficos generados por la ejecución del fichero de jupyter notebook
      - Datos: Directorio que contiene los datos del proyecto. En su interior encontramos los siguientes directorios:
-       **Barrios**: contienes los ficheros CSV con los datos que se cargan en el fichero de notebook. Hay un fichero para cada serie anual (2015 a 2020)
-       **Base**: contiene los shapefiles de Barrios_ZU, que se utiliza como base para realizar las uniones de los datos en el fichero de jupyter notebook y generar los shapefiles de resultados, y Areas, que se utiliza de base de representación en los mapas generados en los dashboards del proyecto
-       **Finales**: contiene los shpaefiles generados tras la ejecución del jupyter notebook, que son indice_gentrificacion (resultado del PCA), k-means_3 (resultado de k-means con 3 clústers), k-means_4 (resultado del k-means con 4 clústers), k-means_6 (resultado del k-mean con 6 clústers)
+            **Barrios**: contienes los ficheros CSV con los datos que se cargan en el fichero de notebook. Hay un fichero para cada serie anual (2015 a 2020)
+            **Base**: contiene los shapefiles de Barrios_ZU, que se utiliza como base para realizar las uniones de los datos en el fichero de jupyter notebook y generar los shapefiles de resultados, y Areas, que se utiliza de base de representación en los mapas generados en los dashboards del proyecto
+            **Finales**: contiene los shpaefiles generados tras la ejecución del jupyter notebook, que son indice_gentrificacion (resultado del PCA), k-means_3 (resultado de k-means con 3 clústers), k-means_4 (resultado del k-means con 4 clústers), k-means_6 (resultado del k-mean con 6 clústers)
 
 El proyecto se complementa con los siguientes dahboards creados en ArcGIS online:
 1. Análsis de las variables: https://www.arcgis.com/apps/dashboards/e9d2e1106d2c4cb78a91765ad555e901
