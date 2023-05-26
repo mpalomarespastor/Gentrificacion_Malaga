@@ -7,8 +7,7 @@ Estudio de nivel de gentrificación de los barrios de Málaga
 *Este proyecto está sujeto a una licencia de Reconocimiento-NoComercial-SinObraDerivada 3.0 España de Creative Commons*
 
 Contenido del repositorio:
-  1. Memoria del proyecto: archivo Memoria.pdf
-  2. Directorio **Code**: Contiene el codigo del proyecto, así como los ficheros fuentes y los de resultado
+  1. Directorio **Code**: Contiene el codigo del proyecto, así como los ficheros fuentes y los de resultado
      - **Gentrification.ipynb**: Fichero de jupiter notebook con el código del proyecto
      - **Gentrification.html**: Exportación en HTML del resultado de ejecutar el fichero de jupyter notebook
      - **Graficos.zip**: Fichero comprimido con los graficos generados por la ejecución del fichero de jupyter notebook
