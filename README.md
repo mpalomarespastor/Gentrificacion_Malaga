@@ -3,6 +3,7 @@
 ### Fecha: 05/2023
 
 Estudio de nivel de gentrificación de los barrios de Málaga
+*Este proyecto está sujeto a una licencia de Reconocimiento-NoComercial-SinObraDerivada 3.0 España de Creative Commons*
 
 Contenido del repositorio:
   1. Directorio **Code**: Contiene el codigo del proyecto, así como los ficheros fuentes y los de resultado
